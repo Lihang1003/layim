@@ -35,7 +35,7 @@
 - 朋友圈等...
 
 #### 体验地址
-[https://im.h5.jh-dr.cn](https://im.h5.jh-dr.cnt)
+[https://im.h5.jh-dr.cn](https://im.h5.jh-dr.cn)
 
 #### 联系方式
 2628575493
